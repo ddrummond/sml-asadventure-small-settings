@@ -1,1 +1,3 @@
-xmla.discover.properties.daxdialect=tabular1600
+object_type: global_settings
+overrides:
+  "xmla.discover.properties.daxdialect":tabular1600
