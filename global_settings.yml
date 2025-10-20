@@ -2,4 +2,5 @@ object_type: global_settings
 overrides:
     "query.drillthrough.max_rows": 1000
     "xmla.discover.properties.daxdialect": tabular1600
+    "query.userDefinedMember.defaultExcelPivotTableProperty": True
     
