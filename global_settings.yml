@@ -5,4 +5,5 @@ overrides:
     "schema.hintedUserDefinedAggregates.nonFactTables.enabled": True
     "query.factless.ignoreIncidentalFilter": True
     "aggregate.incrementalUpdate.partition.strategy": Distribution
+    "tables.create.partitions.maximumEstimatedNumberOfPartitions": 100000
     
