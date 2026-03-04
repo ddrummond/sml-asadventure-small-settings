@@ -4,6 +4,6 @@ overrides:
     "xmla.discover.properties.daxdialect": tabular1600
     "schema.hintedUserDefinedAggregates.nonFactTables.enabled": True
     "query.factless.ignoreIncidentalFilter": True
-    "aggregate.incrementalUpdate.partition.strategy": Distribution
+    "aggregate.incrementalUpdate.partition.strategy": User
     "tables.create.partitions.maximumEstimatedNumberOfPartitions": 100000
     
